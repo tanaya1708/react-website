@@ -6,3 +6,4 @@ rest api call handled using axios - ajax feature service.
 ![Screenshot (33)](https://user-images.githubusercontent.com/74235212/156747060-1f6179de-c0ff-4b64-ae02-6cbeee67a8d8.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/74235212/156747154-00aa9646-5fc9-4243-a86e-129593bdc4e2.png)
 ![Screenshot (36)](https://user-images.githubusercontent.com/74235212/156747170-741c6ef4-2e17-4317-a7a5-7d335d1c450c.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/74235212/156747362-08b4f97b-5df7-4768-950d-aaf8e96e8be2.png)
